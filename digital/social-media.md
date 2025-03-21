@@ -22,9 +22,9 @@
 
 ## PixelFed Account
 
-- **Admin View Accessible By:** PixelFed apps and pixey.org webpage
+- **Admin View Accessible By:** PixelFed apps and metapixl.com webpage
 - **Name:** Open Source Club at OSU
-- **Username and Instance:** @osuosc@pixey.org
+- **Username and Instance:** @osuatosc@metapixl.com
 - **Password:** [EXECUTIVE PRIVELEGE ONLY]
 
 ## YouTube Account
