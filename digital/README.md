@@ -12,3 +12,7 @@ Log dates are in **DD-MM-YYYY** format.
 - Acknowledged Mastodon account.
 - Acknowledged PixelFed account.
 - Acknowledged Instagram account.
+
+## 26-03-2025
+
+- Created and acknowledged LibreOffice account.
