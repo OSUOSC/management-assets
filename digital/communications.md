@@ -9,3 +9,9 @@
 - **Admin View Accessible By:** Official ProtonMail webpage
 - **Username and Provider:** opensourceclub.osu@protonmail.com
 - **Password:** [EXECUTIVE PRIVELEGE ONLY]
+
+## Google
+
+- **Admin View Accessible By:** Official Google service pages (Drive, GMail, etc.)
+- **Username as Email:** opensourceclub.osu@protonmail.com
+- **Password:** [EXECUTIVE PRIVELEGE ONLY]

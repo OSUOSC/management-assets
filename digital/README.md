@@ -16,3 +16,7 @@ Log dates are in **DD-MM-YYYY** format.
 ## 26-03-2025
 
 - Created and acknowledged LibreOffice account.
+
+## 01-04-2025
+
+- Acknowledged Google account.
